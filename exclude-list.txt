@@ -1,4 +1,4 @@
 exclude-list.txt
-//may need to have the directories in quotes if they contain spaces and what not
+//don't quote or escape characters with path
 <album-path-1> 
 <album-path-2>
