@@ -7,4 +7,5 @@ $ rsync -avzh --progress --exclude-from \<path-to-exclude-list\>.txt \<path-to-m
 ## Exclude List
 Each line contains a file or directory that will be ignored by rsync
 
-Don't escape spaces or quote paths
+Don't escape spaces/special characters 
+Don't quote paths
